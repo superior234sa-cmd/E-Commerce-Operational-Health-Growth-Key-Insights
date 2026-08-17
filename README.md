@@ -58,3 +58,5 @@
 
 - Fokus Alokasi Budget Marketing: Genjot promosi pada kategori Fashion & Beauty & Health yang terbukti memiliki tingkat
   profitabilitas paling tinggi.
+
+Link dashboard: https://claude.ai/public/artifacts/948ce660-5ada-4b09-84bd-b9f93aaa67d0
